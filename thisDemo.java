@@ -10,3 +10,5 @@ public class Thisdemo{
         td.SetNumber(50);
     }
 }
+output:
+Value of a is50
